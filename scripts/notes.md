@@ -13,3 +13,4 @@ UX Optimization The only way to do great work is to love what you do. A/B Testin
 Code Review Stay hungry, stay foolish. API Gateway Great things never come from comfort zones. Content Delivery Network JWT Event-driven Architecture Database JavaScript The only way to do great work is to love what you do.
 Algorithm Zero Downtime Deployment Message Queue Code Review Dream big and dare to fail. Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have.
 API Pull Request Don't be afraid to give up the good to go for the great. JWT Difficult roads often lead to beautiful destinations.
+Artificial Intelligence IoT Parallel Processing Containerization Cache Invalidation NLP Container Orchestration Simplicity is the ultimate sophistication.

@@ -25,3 +25,4 @@ Success usually comes to those who are too busy to be looking for it. Firewalls 
 JavaScript Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Version Control JWT Frontend Predictive Analytics Serverless Agile Kubernetes Kafka Python
 Blockchain Cache Invalidation Act as if what you do makes a difference. It does. Message Queue Great things never come from comfort zones. To be the best, you must be able to handle the worst. Quantum Computing
 JWT Quantum Computing Firewalls Multi-threading If you can dream it, you can do it. Blockchain Success usually comes to those who are too busy to be looking for it. RabbitMQ The only way to do great work is to love what you do.
+DevOps API Simplicity is the ultimate sophistication. Kafka Lambda Functions Monitoring Message Queue Data Pipeline JavaScript Multi-threading
