@@ -20,3 +20,4 @@ Cache Invalidation Security Backend Load Testing Monitoring Deployment Act as if
 Act as if what you do makes a difference. It does. API Gateway Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Backend Neural Networks Cloud Functions Frontend DevOps Event Sourcing Microservices Serverless A/B Testing The only way to do great work is to love what you do. JWT
 WebSockets NLP Testing Kafka IoT API Cloud Machine Learning
 Multi-threading Success is how high you bounce when you hit bottom. Server Response Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Parallel Processing JWT Sharding Machine Learning OAuth Big Data Scalability API Gateway Quantum Computing JavaScript
+Framework JavaScript Code Review Distributed Systems CI/CD Backend Predictive Analytics
