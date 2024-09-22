@@ -23,3 +23,4 @@ API Load Testing WebSockets Virtual Machines Load Balancing IoT Simplicity is th
 Pull Request Success doesn’t just find you. You have to go out and get it. Deployment Data Pipeline Cloud Blockchain Logging CI/CD Machine Learning Event Sourcing Lambda Functions NLP Work hard in silence, let your success be your noise. Load Balancing Containerization
 Latency Optimization Blockchain Load Testing DNS Routing Testing Microservices Agile Database Indexing
 React Opportunities don't happen. You create them. JWT Frontend CI/CD Edge Computing
+Sharding Cloud Functions Quantum Computing Deployment Happiness is not something ready made. It comes from your own actions. NLP Success usually comes to those who are too busy to be looking for it. Parallel Processing Big Data
