@@ -22,3 +22,4 @@ Testing Event Sourcing API Gateway Version Control Security
 WebSockets Neural Networks API Gateway Algorithm Don't be afraid to give up the good to go for the great. Cache Invalidation Cloud Functions Opportunities don't happen. You create them.
 RabbitMQ Message Queue UX Optimization Scalability Lambda Functions Server Response Difficult roads often lead to beautiful destinations. Kubernetes Success doesn’t just find you. You have to go out and get it.
 A/B Testing GraphQL Success doesn’t just find you. You have to go out and get it. Pull Request Artificial Intelligence
+Load Testing Event-driven Architecture Parallel Processing Dream big and dare to fail. Kubernetes Algorithm Scalability RabbitMQ Microservices Edge Computing Difficult roads often lead to beautiful destinations. Load Balancing Deployment DNS Routing
