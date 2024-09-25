@@ -22,3 +22,4 @@ Cache Invalidation Kubernetes Frontend Act as if what you do makes a difference.
 API Load Testing WebSockets Virtual Machines Load Balancing IoT Simplicity is the ultimate sophistication. Event-driven Architecture Replica Set Testing Innovation distinguishes between a leader and a follower. Kafka
 Pull Request Success doesn’t just find you. You have to go out and get it. Deployment Data Pipeline Cloud Blockchain Logging CI/CD Machine Learning Event Sourcing Lambda Functions NLP Work hard in silence, let your success be your noise. Load Balancing Containerization
 Latency Optimization Blockchain Load Testing DNS Routing Testing Microservices Agile Database Indexing
+React Opportunities don't happen. You create them. JWT Frontend CI/CD Edge Computing
