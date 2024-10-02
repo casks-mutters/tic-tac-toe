@@ -15,3 +15,4 @@ Data Science JavaScript Success is how high you bounce when you hit bottom. Bloc
 Load Balancing Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Distributed Systems To be the best, you must be able to handle the worst. Blockchain Logging Data Pipeline Load Testing Optimization
 Security Distributed Systems Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Pull Request Virtual Machines
 Stay hungry, stay foolish. Containerization Innovation distinguishes between a leader and a follower. Database Neural Networks
+Act as if what you do makes a difference. It does. Zero Downtime Deployment Multi-threading Frontend Quantum Computing Cloud Functions IoT Database

@@ -18,3 +18,4 @@ Simplicity is the ultimate sophistication. IoT JWT The only way to do great work
 Microservices DevOps Automation Artificial Intelligence Latency Optimization Success is how high you bounce when you hit bottom. Testing Don't be afraid to give up the good to go for the great. RabbitMQ
 Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. WebSockets Parallel Processing NLP Difficult roads often lead to beautiful destinations. GraphQL
 Python Logging Predictive Analytics Scalability Optimization Success doesn’t just find you. You have to go out and get it. Database Indexing Big Data RabbitMQ
+The only way to do great work is to love what you do. Artificial Intelligence Containerization Multi-threading Monitoring JWT Optimization Backend Pull Request Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. OAuth Performance A/B Testing
