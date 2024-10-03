@@ -20,3 +20,4 @@ A/B Testing Success doesn’t just find you. You have to go out and get it. Securi
 Pull Request Code Review A/B Testing Zero Downtime Deployment Scalability JWT GraphQL Event-driven Architecture
 Cache Invalidation Kubernetes Frontend Act as if what you do makes a difference. It does. Deployment Stay hungry, stay foolish. IoT Performance Machine Learning Content Delivery Network Artificial Intelligence Algorithm Container Orchestration API
 API Load Testing WebSockets Virtual Machines Load Balancing IoT Simplicity is the ultimate sophistication. Event-driven Architecture Replica Set Testing Innovation distinguishes between a leader and a follower. Kafka
+Pull Request Success doesn’t just find you. You have to go out and get it. Deployment Data Pipeline Cloud Blockchain Logging CI/CD Machine Learning Event Sourcing Lambda Functions NLP Work hard in silence, let your success be your noise. Load Balancing Containerization

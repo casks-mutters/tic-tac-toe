@@ -24,3 +24,4 @@ To be the best, you must be able to handle the worst. Container Orchestration Vi
 Latency Optimization Monitoring Optimization JavaScript Event Sourcing Innovation distinguishes between a leader and a follower. Serverless Version Control Great things never come from comfort zones.
 Zero Downtime Deployment WebSockets Blockchain Framework Content Delivery Network Backend Logging Cloud Happiness is not something ready made. It comes from your own actions. A/B Testing Sharding
 Innovation distinguishes between a leader and a follower. Scalability Stay hungry, stay foolish. Latency Optimization Act as if what you do makes a difference. It does. Python Agile Optimization To be the best, you must be able to handle the worst. Data Pipeline DevOps Dream big and dare to fail.
+Version Control Python JavaScript Parallel Processing WebSockets Containerization Edge Computing
