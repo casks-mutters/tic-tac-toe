@@ -10,3 +10,4 @@ JavaScript Multi-threading Python Predictive Analytics Security Event Sourcing L
 Code Review Cloud Success is how high you bounce when you hit bottom. Microservices Kafka
 Dream big and dare to fail. Automation Quantum Computing Frontend Code Review
 UX Optimization The only way to do great work is to love what you do. A/B Testing Server Response Pull Request Data Science Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Predictive Analytics Sharding Optimization
+Code Review Stay hungry, stay foolish. API Gateway Great things never come from comfort zones. Content Delivery Network JWT Event-driven Architecture Database JavaScript The only way to do great work is to love what you do.
