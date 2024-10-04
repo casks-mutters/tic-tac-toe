@@ -17,3 +17,4 @@ Parallel Processing Latency Optimization Success is not in what you have, but wh
 Simplicity is the ultimate sophistication. IoT JWT The only way to do great work is to love what you do. Backend Do what you love and the money will follow. Neural Networks Great things never come from comfort zones.
 Microservices DevOps Automation Artificial Intelligence Latency Optimization Success is how high you bounce when you hit bottom. Testing Don't be afraid to give up the good to go for the great. RabbitMQ
 Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. WebSockets Parallel Processing NLP Difficult roads often lead to beautiful destinations. GraphQL
+Python Logging Predictive Analytics Scalability Optimization Success doesn’t just find you. You have to go out and get it. Database Indexing Big Data RabbitMQ
