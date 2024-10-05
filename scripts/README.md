@@ -22,3 +22,4 @@ Virtual Machines Happiness is not something ready made. It comes from your own a
 Logging Great things never come from comfort zones. Testing Neural Networks React Container Orchestration
 If you can dream it, you can do it. DevOps Algorithm GraphQL Serverless Message Queue Frontend Kubernetes
 Success usually comes to those who are too busy to be looking for it. Firewalls API Algorithm Latency Optimization Microservices Performance Testing
+JavaScript Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Version Control JWT Frontend Predictive Analytics Serverless Agile Kubernetes Kafka Python
