@@ -18,3 +18,4 @@ Difficult roads often lead to beautiful destinations. Happiness is not something
 Success usually comes to those who are too busy to be looking for it. Sharding Event-driven Architecture Scalability Logging Quantum Computing RabbitMQ Stay hungry, stay foolish. Microservices Data Pipeline Difficult roads often lead to beautiful destinations. Version Control Database Indexing
 Cache Invalidation Security Backend Load Testing Monitoring Deployment Act as if what you do makes a difference. It does. NLP API Gateway
 Act as if what you do makes a difference. It does. API Gateway Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Backend Neural Networks Cloud Functions Frontend DevOps Event Sourcing Microservices Serverless A/B Testing The only way to do great work is to love what you do. JWT
+WebSockets NLP Testing Kafka IoT API Cloud Machine Learning
