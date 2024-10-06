@@ -18,3 +18,4 @@ Database Event Sourcing API Gateway DNS Routing Python Simplicity is the ultimat
 Quantum Computing Microservices Neural Networks Performance RabbitMQ Event-driven Architecture API
 A/B Testing Success doesn’t just find you. You have to go out and get it. Security Database Kubernetes
 Pull Request Code Review A/B Testing Zero Downtime Deployment Scalability JWT GraphQL Event-driven Architecture
+Cache Invalidation Kubernetes Frontend Act as if what you do makes a difference. It does. Deployment Stay hungry, stay foolish. IoT Performance Machine Learning Content Delivery Network Artificial Intelligence Algorithm Container Orchestration API

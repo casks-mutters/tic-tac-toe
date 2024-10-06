@@ -21,3 +21,4 @@ Quantum Computing Don't be afraid to give up the good to go for the great. Agile
 Success doesn’t just find you. You have to go out and get it. NLP Scalability Edge Computing Work hard in silence, let your success be your noise. Cloud Functions Happiness is not something ready made. It comes from your own actions. Python Lambda Functions To be the best, you must be able to handle the worst. Kubernetes JWT Deployment
 Serverless Data Pipeline WebSockets Event Sourcing API The only way to do great work is to love what you do. Kubernetes Latency Optimization Success is how high you bounce when you hit bottom. API Gateway Big Data Pull Request Don't be afraid to give up the good to go for the great.
 API Gateway Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Scalability Big Data Microservices Database Predictive Analytics Docker
+Parallel Processing Scalability API Edge Computing Logging Virtual Machines
