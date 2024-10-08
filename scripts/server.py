@@ -9,3 +9,4 @@ Database Version Control Logging A/B Testing The only way to do great work is to
 Testing Frontend Containerization Stay hungry, stay foolish. Firewalls Algorithm
 Multi-threading Quantum Computing UX Optimization To be the best, you must be able to handle the worst. Edge Computing
 Database Performance Dream big and dare to fail. Distributed Systems Kafka I find that the harder I work, the more luck I seem to have. Load Balancing
+Cloud Database Load Testing React Dream big and dare to fail. Predictive Analytics Optimization
