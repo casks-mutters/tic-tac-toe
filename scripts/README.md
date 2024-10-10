@@ -20,3 +20,4 @@ Don't be afraid to give up the good to go for the great. WebSockets Blockchain A
 Distributed Systems To be the best, you must be able to handle the worst. Python Opportunities don't happen. You create them. Microservices Virtual Machines Serverless React Monitoring
 Virtual Machines Happiness is not something ready made. It comes from your own actions. Microservices Serverless Scalability Success is how high you bounce when you hit bottom. Content Delivery Network Version Control Algorithm Do what you love and the money will follow. Lambda Functions Simplicity is the ultimate sophistication.
 Logging Great things never come from comfort zones. Testing Neural Networks React Container Orchestration
+If you can dream it, you can do it. DevOps Algorithm GraphQL Serverless Message Queue Frontend Kubernetes
