@@ -14,3 +14,4 @@ Neural Networks Lambda Functions NLP React Kafka Data Science Code Review CI/CD 
 Code Review Simplicity is the ultimate sophistication. Automation Logging Cache Invalidation Predictive Analytics Happiness is not something ready made. It comes from your own actions.
 Latency Optimization JavaScript Deployment React Cloud RabbitMQ Load Balancing
 NLP Predictive Analytics Opportunities don't happen. You create them. Zero Downtime Deployment Agile Cache Invalidation Sharding Great things never come from comfort zones. Neural Networks Quantum Computing Backend
+Code Review Predictive Analytics Quantum Computing Sharding Algorithm DevOps To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Blockchain
