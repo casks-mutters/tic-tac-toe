@@ -15,3 +15,4 @@ Security Success usually comes to those who are too busy to be looking for it. A
 Machine Learning Neural Networks Predictive Analytics API Success usually comes to those who are too busy to be looking for it.
 Latency Optimization Docker Container Orchestration OAuth Big Data I find that the harder I work, the more luck I seem to have. Load Balancing The only way to do great work is to love what you do.
 Quantum Computing Dream big and dare to fail. Frontend Cloud Multi-threading
+Framework API Python Content Delivery Network WebSockets Quantum Computing Edge Computing Parallel Processing Scalability CI/CD
