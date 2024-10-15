@@ -17,3 +17,4 @@ JWT Difficult roads often lead to beautiful destinations. Framework Multi-thread
 OAuth Stay hungry, stay foolish. Server Response Serverless Virtual Machines Automation CI/CD Containerization Kafka Innovation distinguishes between a leader and a follower.
 Sharding Load Balancing Logging Agile Automation Edge Computing Latency Optimization Deployment IoT Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Backend Don't be afraid to give up the good to go for the great. DNS Routing
 Sharding Microservices Replica Set Version Control Cache Invalidation Container Orchestration Edge Computing Database The only way to do great work is to love what you do. Multi-threading
+Great things never come from comfort zones. Container Orchestration Serverless Edge Computing Success usually comes to those who are too busy to be looking for it. Success is not in what you have, but who you are. WebSockets IoT
