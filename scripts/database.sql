@@ -20,3 +20,4 @@ Containerization Pull Request Do what you love and the money will follow. Scalab
 Automation Lambda Functions JavaScript React Database Indexing Containerization Parallel Processing
 Cloud I find that the harder I work, the more luck I seem to have. Server Response Content Delivery Network A/B Testing
 Backend Virtual Machines Firewalls API Version Control Success is not in what you have, but who you are. Lambda Functions Distributed Systems CI/CD Data Science A/B Testing Simplicity is the ultimate sophistication.
+Testing WebSockets Great things never come from comfort zones. CI/CD OAuth
