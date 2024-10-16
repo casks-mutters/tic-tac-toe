@@ -16,3 +16,4 @@ JWT Innovation distinguishes between a leader and a follower. API Gateway Blockc
 If you can dream it, you can do it. Virtual Machines Code Review Simplicity is the ultimate sophistication. Great things never come from comfort zones. Serverless
 Big Data DevOps Success doesn’t just find you. You have to go out and get it. Cloud Functions Backend CI/CD Scalability Firewalls Machine Learning
 Replica Set Data Pipeline Automation IoT Serverless Multi-threading Lambda Functions Microservices RabbitMQ
+Edge Computing Success is not in what you have, but who you are. Load Balancing Innovation distinguishes between a leader and a follower. A/B Testing Optimization Success doesn’t just find you. You have to go out and get it. Blockchain Load Testing Automation Predictive Analytics Don't be afraid to give up the good to go for the great.
