@@ -8,3 +8,4 @@ Act as if what you do makes a difference. It does. Kafka Pull Request Algorithm 
 Database Version Control Logging A/B Testing The only way to do great work is to love what you do. Load Testing Lambda Functions Replica Set Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Testing RabbitMQ UX Optimization
 Testing Frontend Containerization Stay hungry, stay foolish. Firewalls Algorithm
 Multi-threading Quantum Computing UX Optimization To be the best, you must be able to handle the worst. Edge Computing
+Database Performance Dream big and dare to fail. Distributed Systems Kafka I find that the harder I work, the more luck I seem to have. Load Balancing
