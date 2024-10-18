@@ -9,3 +9,4 @@ Distributed Systems Parallel Processing Success doesn’t just find you. You have 
 JavaScript Multi-threading Python Predictive Analytics Security Event Sourcing Logging Replica Set Stay hungry, stay foolish. CI/CD
 Code Review Cloud Success is how high you bounce when you hit bottom. Microservices Kafka
 Dream big and dare to fail. Automation Quantum Computing Frontend Code Review
+UX Optimization The only way to do great work is to love what you do. A/B Testing Server Response Pull Request Data Science Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Predictive Analytics Sharding Optimization

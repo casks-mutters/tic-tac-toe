@@ -17,3 +17,4 @@ A/B Testing Security Innovation distinguishes between a leader and a follower. M
 Database Event Sourcing API Gateway DNS Routing Python Simplicity is the ultimate sophistication. Load Testing Cloud Functions A/B Testing Framework
 Quantum Computing Microservices Neural Networks Performance RabbitMQ Event-driven Architecture API
 A/B Testing Success doesn’t just find you. You have to go out and get it. Security Database Kubernetes
+Pull Request Code Review A/B Testing Zero Downtime Deployment Scalability JWT GraphQL Event-driven Architecture
