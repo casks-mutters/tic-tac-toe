@@ -16,3 +16,4 @@ NLP DevOps I find that the harder I work, the more luck I seem to have. Lambda F
 A/B Testing Security Innovation distinguishes between a leader and a follower. Monitoring Microservices The only way to do great work is to love what you do. Server Response Edge Computing Great things never come from comfort zones. Artificial Intelligence Act as if what you do makes a difference. It does.
 Database Event Sourcing API Gateway DNS Routing Python Simplicity is the ultimate sophistication. Load Testing Cloud Functions A/B Testing Framework
 Quantum Computing Microservices Neural Networks Performance RabbitMQ Event-driven Architecture API
+A/B Testing Success doesn’t just find you. You have to go out and get it. Security Database Kubernetes

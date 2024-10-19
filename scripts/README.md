@@ -16,3 +16,4 @@ DevOps Artificial Intelligence Cloud Functions Latency Optimization Testing CI/C
 Difficult roads often lead to beautiful destinations. Container Orchestration To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Data Science Artificial Intelligence Logging Code Review JWT DNS Routing
 The only way to do great work is to love what you do. Serverless CI/CD JavaScript Cloud Latency Optimization Database Indexing Container Orchestration
 Happiness is not something ready made. It comes from your own actions. Kubernetes Cloud Functions Automation Parallel Processing Container Orchestration IoT Algorithm Deployment Code Review Artificial Intelligence Kafka Content Delivery Network
+Don't be afraid to give up the good to go for the great. WebSockets Blockchain API Gateway Stay hungry, stay foolish. Security Artificial Intelligence
