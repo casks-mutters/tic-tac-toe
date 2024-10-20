@@ -14,3 +14,4 @@ Replica Set JWT Python Database Indexing Kubernetes
 Success is how high you bounce when you hit bottom. Load Testing Blockchain Difficult roads often lead to beautiful destinations. DNS Routing Containerization If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. JavaScript
 JWT Innovation distinguishes between a leader and a follower. API Gateway Blockchain Work hard in silence, let your success be your noise. Machine Learning Code Review DNS Routing Event-driven Architecture
 If you can dream it, you can do it. Virtual Machines Code Review Simplicity is the ultimate sophistication. Great things never come from comfort zones. Serverless
+Big Data DevOps Success doesn’t just find you. You have to go out and get it. Cloud Functions Backend CI/CD Scalability Firewalls Machine Learning
