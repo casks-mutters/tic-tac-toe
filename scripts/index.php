@@ -14,3 +14,4 @@ Security A/B Testing Opportunities don't happen. You create them. Firewalls Fron
 Security Success usually comes to those who are too busy to be looking for it. API IoT Kafka Cloud Code Review Testing Distributed Systems Pull Request
 Machine Learning Neural Networks Predictive Analytics API Success usually comes to those who are too busy to be looking for it.
 Latency Optimization Docker Container Orchestration OAuth Big Data I find that the harder I work, the more luck I seem to have. Load Balancing The only way to do great work is to love what you do.
+Quantum Computing Dream big and dare to fail. Frontend Cloud Multi-threading
