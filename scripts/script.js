@@ -15,3 +15,4 @@ Don't be afraid to give up the good to go for the great. NLP WebSockets Happines
 Predictive Analytics Kubernetes Optimization Agile Sharding Backend The only way to do great work is to love what you do. DevOps Database Indexing Latency Optimization Success is how high you bounce when you hit bottom. Docker Work hard in silence, let your success be your noise. Load Testing Dream big and dare to fail.
 Event Sourcing Performance Cloud Functions Distributed Systems Security Data Pipeline Work hard in silence, let your success be your noise. Load Balancing Kubernetes
 Multi-threading Artificial Intelligence Database Indexing API GraphQL Frontend Python Predictive Analytics Act as if what you do makes a difference. It does. IoT Replica Set Optimization Event Sourcing Serverless If you can dream it, you can do it.
+Sharding Blockchain NLP Neural Networks Server Response

@@ -12,3 +12,4 @@ Opportunities don't happen. You create them. Logging WebSockets Replica Set IoT
 Optimization Firewalls Parallel Processing Data Science Performance
 Predictive Analytics Performance API Cache Invalidation Cloud IoT Success is how high you bounce when you hit bottom. Monitoring Agile Deployment
 Don't be afraid to give up the good to go for the great. Event Sourcing Virtual Machines OAuth Parallel Processing Cloud Functions Success is how high you bounce when you hit bottom. Pull Request GraphQL
+DevOps Artificial Intelligence Cloud Functions Latency Optimization Testing CI/CD Machine Learning Security Success usually comes to those who are too busy to be looking for it. RabbitMQ WebSockets Code Review Happiness is not something ready made. It comes from your own actions.
