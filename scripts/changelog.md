@@ -20,3 +20,4 @@ Success doesn’t just find you. You have to go out and get it. Kubernetes Agile D
 DNS Routing Optimization The only way to do great work is to love what you do. Pull Request Firewalls Agile CI/CD UX Optimization Kafka Python Multi-threading Success usually comes to those who are too busy to be looking for it. Distributed Systems Simplicity is the ultimate sophistication. Lambda Functions
 API UX Optimization Predictive Analytics JavaScript Pull Request Firewalls Neural Networks Scalability Content Delivery Network Python
 Kubernetes Neural Networks CI/CD Great things never come from comfort zones. Replica Set I find that the harder I work, the more luck I seem to have.
+To be the best, you must be able to handle the worst. Container Orchestration Virtual Machines Neural Networks Blockchain Success doesn’t just find you. You have to go out and get it. Load Balancing Parallel Processing Performance Event-driven Architecture Opportunities don't happen. You create them.
