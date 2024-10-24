@@ -11,3 +11,4 @@ Firewalls Data Pipeline JavaScript Deployment API Virtual Machines Code Review A
 Opportunities don't happen. You create them. Logging WebSockets Replica Set IoT
 Optimization Firewalls Parallel Processing Data Science Performance
 Predictive Analytics Performance API Cache Invalidation Cloud IoT Success is how high you bounce when you hit bottom. Monitoring Agile Deployment
+Don't be afraid to give up the good to go for the great. Event Sourcing Virtual Machines OAuth Parallel Processing Cloud Functions Success is how high you bounce when you hit bottom. Pull Request GraphQL
