@@ -10,3 +10,4 @@ Machine Learning Event-driven Architecture Deployment Great things never come fr
 Firewalls Data Pipeline JavaScript Deployment API Virtual Machines Code Review Automation Docker Happiness is not something ready made. It comes from your own actions.
 Opportunities don't happen. You create them. Logging WebSockets Replica Set IoT
 Optimization Firewalls Parallel Processing Data Science Performance
+Predictive Analytics Performance API Cache Invalidation Cloud IoT Success is how high you bounce when you hit bottom. Monitoring Agile Deployment
