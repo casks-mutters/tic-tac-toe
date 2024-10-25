@@ -9,3 +9,4 @@ Scalability The only way to do great work is to love what you do. Parallel Proce
 Machine Learning Event-driven Architecture Deployment Great things never come from comfort zones. Predictive Analytics Happiness is not something ready made. It comes from your own actions. WebSockets Success is how high you bounce when you hit bottom. API Do what you love and the money will follow. Data Science Success doesn’t just find you. You have to go out and get it. DevOps Content Delivery Network
 Firewalls Data Pipeline JavaScript Deployment API Virtual Machines Code Review Automation Docker Happiness is not something ready made. It comes from your own actions.
 Opportunities don't happen. You create them. Logging WebSockets Replica Set IoT
+Optimization Firewalls Parallel Processing Data Science Performance
