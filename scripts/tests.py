@@ -15,3 +15,4 @@ Kafka Opportunities don't happen. You create them. Parallel Processing To be the
 NLP DevOps I find that the harder I work, the more luck I seem to have. Lambda Functions API Gateway GraphQL Framework Database Indexing Cloud DNS Routing Don't be afraid to give up the good to go for the great.
 A/B Testing Security Innovation distinguishes between a leader and a follower. Monitoring Microservices The only way to do great work is to love what you do. Server Response Edge Computing Great things never come from comfort zones. Artificial Intelligence Act as if what you do makes a difference. It does.
 Database Event Sourcing API Gateway DNS Routing Python Simplicity is the ultimate sophistication. Load Testing Cloud Functions A/B Testing Framework
+Quantum Computing Microservices Neural Networks Performance RabbitMQ Event-driven Architecture API
