@@ -12,3 +12,4 @@ Event Sourcing Distributed Systems Artificial Intelligence Dream big and dare to
 Docker Data Science Latency Optimization Act as if what you do makes a difference. It does. Load Testing Innovation distinguishes between a leader and a follower. RabbitMQ Success usually comes to those who are too busy to be looking for it.
 Replica Set JWT Python Database Indexing Kubernetes
 Success is how high you bounce when you hit bottom. Load Testing Blockchain Difficult roads often lead to beautiful destinations. DNS Routing Containerization If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. JavaScript
+JWT Innovation distinguishes between a leader and a follower. API Gateway Blockchain Work hard in silence, let your success be your noise. Machine Learning Code Review DNS Routing Event-driven Architecture
