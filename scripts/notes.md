@@ -8,3 +8,4 @@ API Gateway If you can dream it, you can do it. WebSockets Testing Zero Downtime
 Distributed Systems Parallel Processing Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Success is not in what you have, but who you are. Data Pipeline If you can dream it, you can do it. Neural Networks Multi-threading WebSockets Virtual Machines Optimization Edge Computing
 JavaScript Multi-threading Python Predictive Analytics Security Event Sourcing Logging Replica Set Stay hungry, stay foolish. CI/CD
 Code Review Cloud Success is how high you bounce when you hit bottom. Microservices Kafka
+Dream big and dare to fail. Automation Quantum Computing Frontend Code Review
