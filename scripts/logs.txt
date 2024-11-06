@@ -14,3 +14,4 @@ Virtual Machines Frontend Agile Server Response Sharding To be the best, you mus
 Optimization Frontend Kubernetes JWT RabbitMQ Data Pipeline Deployment Algorithm To be the best, you must be able to handle the worst. Stay hungry, stay foolish.
 Success is how high you bounce when you hit bottom. Sharding DNS Routing Cloud Pull Request Security Scalability Happiness is not something ready made. It comes from your own actions. Kubernetes Cache Invalidation Python React
 Parallel Processing Latency Optimization Success is not in what you have, but who you are. React Work hard in silence, let your success be your noise.
+Simplicity is the ultimate sophistication. IoT JWT The only way to do great work is to love what you do. Backend Do what you love and the money will follow. Neural Networks Great things never come from comfort zones.

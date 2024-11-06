@@ -15,3 +15,4 @@ Cache Invalidation Load Testing Framework Stay hungry, stay foolish. To be the b
 Automation Frontend A/B Testing Don't be afraid to give up the good to go for the great. API Gateway
 JWT Difficult roads often lead to beautiful destinations. Framework Multi-threading Security Database Indexing Message Queue
 OAuth Stay hungry, stay foolish. Server Response Serverless Virtual Machines Automation CI/CD Containerization Kafka Innovation distinguishes between a leader and a follower.
+Sharding Load Balancing Logging Agile Automation Edge Computing Latency Optimization Deployment IoT Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Backend Don't be afraid to give up the good to go for the great. DNS Routing
