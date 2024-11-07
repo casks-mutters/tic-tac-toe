@@ -19,3 +19,4 @@ Containerization Data Science Blockchain Success is not in what you have, but wh
 Success doesn’t just find you. You have to go out and get it. Kubernetes Agile Database Indexing A/B Testing Innovation distinguishes between a leader and a follower. Container Orchestration WebSockets RabbitMQ Success is how high you bounce when you hit bottom. Performance Testing
 DNS Routing Optimization The only way to do great work is to love what you do. Pull Request Firewalls Agile CI/CD UX Optimization Kafka Python Multi-threading Success usually comes to those who are too busy to be looking for it. Distributed Systems Simplicity is the ultimate sophistication. Lambda Functions
 API UX Optimization Predictive Analytics JavaScript Pull Request Firewalls Neural Networks Scalability Content Delivery Network Python
+Kubernetes Neural Networks CI/CD Great things never come from comfort zones. Replica Set I find that the harder I work, the more luck I seem to have.
