@@ -13,3 +13,4 @@ CI/CD Dream big and dare to fail. JavaScript I find that the harder I work, the 
 Cache Invalidation Cloud Parallel Processing Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. To be the best, you must be able to handle the worst. Load Testing
 Don't be afraid to give up the good to go for the great. Event-driven Architecture Backend Database Indexing DNS Routing
 Cache Invalidation Monitoring Frontend JavaScript CI/CD A/B Testing
+Backend Message Queue Success usually comes to those who are too busy to be looking for it. IoT Firewalls Parallel Processing Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Replica Set Zero Downtime Deployment Optimization Version Control Automation JavaScript
