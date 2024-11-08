@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Logging Vi
 Sharding Security Version Control Serverless Distributed Systems Opportunities don't happen. You create them. WebSockets
 Server Response A/B Testing Data Pipeline JavaScript Container Orchestration Success is not in what you have, but who you are. WebSockets
 Happiness is not something ready made. It comes from your own actions. Scalability Opportunities don't happen. You create them. Sharding Content Delivery Network
+Data Science JavaScript Success is how high you bounce when you hit bottom. Blockchain Serverless Data Pipeline Dream big and dare to fail.

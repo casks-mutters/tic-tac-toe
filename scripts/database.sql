@@ -18,3 +18,4 @@ Backend Database If you can dream it, you can do it. Difficult roads often lead 
 Big Data Serverless WebSockets Lambda Functions Version Control
 Containerization Pull Request Do what you love and the money will follow. Scalability GraphQL API Lambda Functions IoT Dream big and dare to fail. Opportunities don't happen. You create them. Virtual Machines WebSockets Latency Optimization Message Queue Deployment
 Automation Lambda Functions JavaScript React Database Indexing Containerization Parallel Processing
+Cloud I find that the harder I work, the more luck I seem to have. Server Response Content Delivery Network A/B Testing
