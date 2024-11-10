@@ -5,3 +5,4 @@ Docker Machine Learning API Stay hungry, stay foolish. Load Testing Logging Kafk
 API Gateway Version Control Success is how high you bounce when you hit bottom. Data Science Algorithm Blockchain
 Virtual Machines Event Sourcing Data Science Firewalls Don't be afraid to give up the good to go for the great. Latency Optimization
 Blockchain Success doesn’t just find you. You have to go out and get it. NLP Algorithm Frontend
+Containerization OAuth Zero Downtime Deployment Act as if what you do makes a difference. It does. Code Review Machine Learning Opportunities don't happen. You create them. Algorithm Container Orchestration To be the best, you must be able to handle the worst. Performance
