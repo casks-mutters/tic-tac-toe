@@ -10,3 +10,4 @@ Load Balancing Innovation distinguishes between a leader and a follower. DNS Rou
 Don't be afraid to give up the good to go for the great. Replica Set WebSockets DevOps Database
 Data Science Firewalls Replica Set Agile Quantum Computing Edge Computing Microservices
 Code Review NLP Scalability Kubernetes JWT Version Control Docker JavaScript Machine Learning Database Indexing Big Data Kafka Data Pipeline Deployment
+Performance Edge Computing Event Sourcing Work hard in silence, let your success be your noise. Container Orchestration Do what you love and the money will follow. GraphQL Happiness is not something ready made. It comes from your own actions. Neural Networks WebSockets Parallel Processing OAuth Testing Server Response Innovation distinguishes between a leader and a follower.
