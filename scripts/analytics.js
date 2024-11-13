@@ -12,3 +12,4 @@ Framework DNS Routing Version Control Load Balancing Innovation distinguishes be
 CI/CD Dream big and dare to fail. JavaScript I find that the harder I work, the more luck I seem to have. Logging Load Testing Work hard in silence, let your success be your noise. Event Sourcing Python Opportunities don't happen. You create them.
 Cache Invalidation Cloud Parallel Processing Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. To be the best, you must be able to handle the worst. Load Testing
 Don't be afraid to give up the good to go for the great. Event-driven Architecture Backend Database Indexing DNS Routing
+Cache Invalidation Monitoring Frontend JavaScript CI/CD A/B Testing
