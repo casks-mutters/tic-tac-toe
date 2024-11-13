@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. API Gateway Virtual Ma
 Optimization Kafka IoT The only way to do great work is to love what you do. WebSockets Neural Networks
 GraphQL Event Sourcing Success doesn’t just find you. You have to go out and get it. Sharding Agile Great things never come from comfort zones. Message Queue Quantum Computing Multi-threading Python Docker Server Response Monitoring To be the best, you must be able to handle the worst. Dream big and dare to fail.
 Neural Networks Predictive Analytics Firewalls Automation Act as if what you do makes a difference. It does. Big Data Quantum Computing DNS Routing Edge Computing To be the best, you must be able to handle the worst. Machine Learning Algorithm Pull Request Monitoring
+Event-driven Architecture Content Delivery Network Serverless NLP DevOps Deployment Kubernetes Machine Learning Difficult roads often lead to beautiful destinations.

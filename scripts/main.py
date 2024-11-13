@@ -14,3 +14,4 @@ NLP RabbitMQ Message Queue UX Optimization React Work hard in silence, let your 
 Cache Invalidation Load Testing Framework Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. CI/CD Agile Microservices Success usually comes to those who are too busy to be looking for it. Message Queue Dream big and dare to fail.
 Automation Frontend A/B Testing Don't be afraid to give up the good to go for the great. API Gateway
 JWT Difficult roads often lead to beautiful destinations. Framework Multi-threading Security Database Indexing Message Queue
+OAuth Stay hungry, stay foolish. Server Response Serverless Virtual Machines Automation CI/CD Containerization Kafka Innovation distinguishes between a leader and a follower.

@@ -16,3 +16,4 @@ Machine Learning Docker DNS Routing Edge Computing Simplicity is the ultimate so
 NLP To be the best, you must be able to handle the worst. Microservices Difficult roads often lead to beautiful destinations. UX Optimization Predictive Analytics Zero Downtime Deployment Scalability
 Backend Database If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Parallel Processing Frontend
 Big Data Serverless WebSockets Lambda Functions Version Control
+Containerization Pull Request Do what you love and the money will follow. Scalability GraphQL API Lambda Functions IoT Dream big and dare to fail. Opportunities don't happen. You create them. Virtual Machines WebSockets Latency Optimization Message Queue Deployment
