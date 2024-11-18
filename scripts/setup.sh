@@ -10,3 +10,4 @@ Predictive Analytics Great things never come from comfort zones. Replica Set Wor
 Success usually comes to those who are too busy to be looking for it. Logging Virtual Machines Predictive Analytics Lambda Functions API Gateway Great things never come from comfort zones. Deployment
 Sharding Security Version Control Serverless Distributed Systems Opportunities don't happen. You create them. WebSockets
 Server Response A/B Testing Data Pipeline JavaScript Container Orchestration Success is not in what you have, but who you are. WebSockets
+Happiness is not something ready made. It comes from your own actions. Scalability Opportunities don't happen. You create them. Sharding Content Delivery Network
