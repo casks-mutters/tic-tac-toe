@@ -14,3 +14,4 @@ Backend RabbitMQ Big Data API Kubernetes Opportunities don't happen. You create 
 Algorithm Replica Set If you can dream it, you can do it. Blockchain Cache Invalidation Optimization
 Machine Learning Docker DNS Routing Edge Computing Simplicity is the ultimate sophistication. Latency Optimization
 NLP To be the best, you must be able to handle the worst. Microservices Difficult roads often lead to beautiful destinations. UX Optimization Predictive Analytics Zero Downtime Deployment Scalability
+Backend Database If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Parallel Processing Frontend
