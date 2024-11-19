@@ -12,3 +12,4 @@ Opportunities don't happen. You create them. Load Balancing DevOps Virtual Machi
 JWT Docker Cloud Great things never come from comfort zones. Security
 Code Review Success doesn’t just find you. You have to go out and get it. JavaScript DevOps Predictive Analytics Multi-threading Edge Computing Containerization Algorithm Success is how high you bounce when you hit bottom. Version Control Serverless
 Kafka Opportunities don't happen. You create them. Parallel Processing To be the best, you must be able to handle the worst. Framework CI/CD React Sharding
+NLP DevOps I find that the harder I work, the more luck I seem to have. Lambda Functions API Gateway GraphQL Framework Database Indexing Cloud DNS Routing Don't be afraid to give up the good to go for the great.
