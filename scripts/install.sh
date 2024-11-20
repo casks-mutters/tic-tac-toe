@@ -10,3 +10,4 @@ JavaScript Success is not in what you have, but who you are. Opportunities don't
 Kubernetes Framework Success usually comes to those who are too busy to be looking for it. JWT Kafka WebSockets If you can dream it, you can do it. Artificial Intelligence Data Pipeline DevOps JavaScript Big Data
 Docker If you can dream it, you can do it. Simplicity is the ultimate sophistication. DNS Routing Message Queue The only way to do great work is to love what you do. Event Sourcing Do what you love and the money will follow. Event-driven Architecture Automation
 Data Science RabbitMQ Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Artificial Intelligence Neural Networks Testing Cache Invalidation Difficult roads often lead to beautiful destinations. WebSockets CI/CD OAuth
+Distributed Systems Deployment Scalability Kubernetes NLP Cloud Functions Neural Networks
