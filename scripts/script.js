@@ -9,3 +9,4 @@ Distributed Systems Serverless To be the best, you must be able to handle the wo
 Load Balancing Innovation distinguishes between a leader and a follower. DNS Routing Success is not in what you have, but who you are. Pull Request
 Don't be afraid to give up the good to go for the great. Replica Set WebSockets DevOps Database
 Data Science Firewalls Replica Set Agile Quantum Computing Edge Computing Microservices
+Code Review NLP Scalability Kubernetes JWT Version Control Docker JavaScript Machine Learning Database Indexing Big Data Kafka Data Pipeline Deployment
