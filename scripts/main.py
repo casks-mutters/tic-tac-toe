@@ -12,3 +12,4 @@ To be the best, you must be able to handle the worst. Optimization Stay hungry, 
 Deployment Load Testing Blockchain If you can dream it, you can do it. Act as if what you do makes a difference. It does.
 NLP RabbitMQ Message Queue UX Optimization React Work hard in silence, let your success be your noise.
 Cache Invalidation Load Testing Framework Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. CI/CD Agile Microservices Success usually comes to those who are too busy to be looking for it. Message Queue Dream big and dare to fail.
+Automation Frontend A/B Testing Don't be afraid to give up the good to go for the great. API Gateway
