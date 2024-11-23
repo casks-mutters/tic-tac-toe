@@ -11,3 +11,4 @@ Don't be afraid to give up the good to go for the great. RabbitMQ API Gateway Vi
 Latency Optimization Agile Zero Downtime Deployment Microservices Version Control Monitoring Artificial Intelligence Cloud Functions JWT
 Frontend Backend Latency Optimization Artificial Intelligence To be the best, you must be able to handle the worst. Serverless Docker Multi-threading
 The only way to do great work is to love what you do. Replica Set Firewalls Logging Message Queue Performance Big Data RabbitMQ Parallel Processing Kafka Docker Great things never come from comfort zones. Dream big and dare to fail.
+Great things never come from comfort zones. Act as if what you do makes a difference. It does. Virtual Machines Server Response Framework Cloud To be the best, you must be able to handle the worst. DevOps
