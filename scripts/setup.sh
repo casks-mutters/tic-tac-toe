@@ -8,3 +8,4 @@ CI/CD Performance Cloud Pull Request WebSockets Automation GraphQL Success doesn
 Message Queue Pull Request Zero Downtime Deployment Kubernetes Replica Set
 Predictive Analytics Great things never come from comfort zones. Replica Set Work hard in silence, let your success be your noise. RabbitMQ Event Sourcing Success usually comes to those who are too busy to be looking for it. Artificial Intelligence OAuth Sharding Python Kubernetes JavaScript Event-driven Architecture
 Success usually comes to those who are too busy to be looking for it. Logging Virtual Machines Predictive Analytics Lambda Functions API Gateway Great things never come from comfort zones. Deployment
+Sharding Security Version Control Serverless Distributed Systems Opportunities don't happen. You create them. WebSockets

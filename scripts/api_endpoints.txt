@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. JavaScript GraphQL API Parallel Pro
 Sharding Containerization Great things never come from comfort zones. IoT Load Testing
 Innovation distinguishes between a leader and a follower. API Gateway Virtual Machines Sharding Server Response
 Optimization Kafka IoT The only way to do great work is to love what you do. WebSockets Neural Networks
+GraphQL Event Sourcing Success doesn’t just find you. You have to go out and get it. Sharding Agile Great things never come from comfort zones. Message Queue Quantum Computing Multi-threading Python Docker Server Response Monitoring To be the best, you must be able to handle the worst. Dream big and dare to fail.
