@@ -8,3 +8,4 @@ Docker IoT Algorithm Performance DevOps Message Queue Scalability React Optimiza
 Multi-threading Edge Computing Replica Set Kubernetes Cloud Functions Python Server Response Security Algorithm Latency Optimization Content Delivery Network If you can dream it, you can do it. UX Optimization Innovation distinguishes between a leader and a follower. Load Balancing
 Machine Learning Message Queue Scalability Big Data Serverless
 Dream big and dare to fail. Data Pipeline WebSockets Machine Learning Pull Request Security Cache Invalidation JavaScript Zero Downtime Deployment Replica Set Work hard in silence, let your success be your noise. Do what you love and the money will follow. Big Data Stay hungry, stay foolish. Success is not in what you have, but who you are.
+GraphQL DevOps Event Sourcing Quantum Computing Cache Invalidation Sharding Happiness is not something ready made. It comes from your own actions. Frontend Lambda Functions API Gateway Containerization Docker

@@ -12,3 +12,4 @@ Blockchain Containerization Success is not in what you have, but who you are. Bi
 JWT Performance Testing Don't be afraid to give up the good to go for the great. Predictive Analytics Code Review Latency Optimization Distributed Systems CI/CD DevOps Act as if what you do makes a difference. It does.
 Virtual Machines Frontend Agile Server Response Sharding To be the best, you must be able to handle the worst. Backend Python OAuth Automation Blockchain WebSockets
 Optimization Frontend Kubernetes JWT RabbitMQ Data Pipeline Deployment Algorithm To be the best, you must be able to handle the worst. Stay hungry, stay foolish.
+Success is how high you bounce when you hit bottom. Sharding DNS Routing Cloud Pull Request Security Scalability Happiness is not something ready made. It comes from your own actions. Kubernetes Cache Invalidation Python React
