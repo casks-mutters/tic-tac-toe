@@ -3,3 +3,4 @@ Success is how high you bounce when you hit bottom. To be the best, you must be 
 Parallel Processing Code Review Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Multi-threading The only way to do great work is to love what you do. Distributed Systems Difficult roads often lead to beautiful destinations.
 Docker Machine Learning API Stay hungry, stay foolish. Load Testing Logging Kafka Success is how high you bounce when you hit bottom. Lambda Functions Distributed Systems Edge Computing Latency Optimization
 API Gateway Version Control Success is how high you bounce when you hit bottom. Data Science Algorithm Blockchain
+Virtual Machines Event Sourcing Data Science Firewalls Don't be afraid to give up the good to go for the great. Latency Optimization
