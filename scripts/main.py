@@ -10,3 +10,4 @@ Frontend Replica Set Difficult roads often lead to beautiful destinations. UX Op
 JWT Difficult roads often lead to beautiful destinations. Edge Computing Success doesn’t just find you. You have to go out and get it. Distributed Systems Containerization JavaScript
 To be the best, you must be able to handle the worst. Optimization Stay hungry, stay foolish. Artificial Intelligence Quantum Computing Automation Firewalls Deployment Latency Optimization Docker Content Delivery Network Edge Computing Database
 Deployment Load Testing Blockchain If you can dream it, you can do it. Act as if what you do makes a difference. It does.
+NLP RabbitMQ Message Queue UX Optimization React Work hard in silence, let your success be your noise.
