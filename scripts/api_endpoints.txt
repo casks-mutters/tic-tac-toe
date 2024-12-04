@@ -6,3 +6,4 @@ Code Review Deployment Monitoring Scalability Big Data Message Queue Microservic
 Opportunities don't happen. You create them. JavaScript GraphQL API Parallel Processing Act as if what you do makes a difference. It does. Dream big and dare to fail. Pull Request Container Orchestration Database Monitoring If you can dream it, you can do it. Predictive Analytics Stay hungry, stay foolish.
 Sharding Containerization Great things never come from comfort zones. IoT Load Testing
 Innovation distinguishes between a leader and a follower. API Gateway Virtual Machines Sharding Server Response
+Optimization Kafka IoT The only way to do great work is to love what you do. WebSockets Neural Networks
