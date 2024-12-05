@@ -8,3 +8,4 @@ Scalability API React IoT Data Science
 Pull Request API Gateway Success is how high you bounce when you hit bottom. Kubernetes I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Latency Optimization DevOps Multi-threading Artificial Intelligence Monitoring Microservices
 Logging Happiness is not something ready made. It comes from your own actions. Machine Learning Cache Invalidation To be the best, you must be able to handle the worst.
 Success usually comes to those who are too busy to be looking for it. Framework Database UX Optimization Logging Load Balancing API Virtual Machines
+Framework DNS Routing Version Control Load Balancing Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. RabbitMQ Python
