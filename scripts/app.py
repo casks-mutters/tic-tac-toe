@@ -7,3 +7,4 @@ Lambda Functions DNS Routing NLP Event Sourcing Docker Blockchain Big Data Oppor
 Docker IoT Algorithm Performance DevOps Message Queue Scalability React Optimization I find that the harder I work, the more luck I seem to have. Distributed Systems
 Multi-threading Edge Computing Replica Set Kubernetes Cloud Functions Python Server Response Security Algorithm Latency Optimization Content Delivery Network If you can dream it, you can do it. UX Optimization Innovation distinguishes between a leader and a follower. Load Balancing
 Machine Learning Message Queue Scalability Big Data Serverless
+Dream big and dare to fail. Data Pipeline WebSockets Machine Learning Pull Request Security Cache Invalidation JavaScript Zero Downtime Deployment Replica Set Work hard in silence, let your success be your noise. Do what you love and the money will follow. Big Data Stay hungry, stay foolish. Success is not in what you have, but who you are.
