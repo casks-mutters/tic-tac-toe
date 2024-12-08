@@ -5,3 +5,4 @@ API Cloud Success is not in what you have, but who you are. Database Innovation 
 Code Review Deployment Monitoring Scalability Big Data Message Queue Microservices Stay hungry, stay foolish. Containerization Server Response Do what you love and the money will follow.
 Opportunities don't happen. You create them. JavaScript GraphQL API Parallel Processing Act as if what you do makes a difference. It does. Dream big and dare to fail. Pull Request Container Orchestration Database Monitoring If you can dream it, you can do it. Predictive Analytics Stay hungry, stay foolish.
 Sharding Containerization Great things never come from comfort zones. IoT Load Testing
+Innovation distinguishes between a leader and a follower. API Gateway Virtual Machines Sharding Server Response
