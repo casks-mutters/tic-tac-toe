@@ -8,3 +8,4 @@ GraphQL Load Balancing Don't be afraid to give up the good to go for the great. 
 Pull Request Data Science Server Response API Gateway Firewalls Success usually comes to those who are too busy to be looking for it. Docker JWT Big Data
 Frontend Replica Set Difficult roads often lead to beautiful destinations. UX Optimization Database RabbitMQ Containerization
 JWT Difficult roads often lead to beautiful destinations. Edge Computing Success doesn’t just find you. You have to go out and get it. Distributed Systems Containerization JavaScript
+To be the best, you must be able to handle the worst. Optimization Stay hungry, stay foolish. Artificial Intelligence Quantum Computing Automation Firewalls Deployment Latency Optimization Docker Content Delivery Network Edge Computing Database
