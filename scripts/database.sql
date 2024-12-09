@@ -12,3 +12,4 @@ Latency Optimization Serverless Success is not in what you have, but who you are
 Monitoring NLP Serverless Cache Invalidation Performance I find that the harder I work, the more luck I seem to have. Latency Optimization Blockchain Kafka Docker Server Response Load Testing
 Backend RabbitMQ Big Data API Kubernetes Opportunities don't happen. You create them. Testing UX Optimization Zero Downtime Deployment Replica Set Distributed Systems Neural Networks
 Algorithm Replica Set If you can dream it, you can do it. Blockchain Cache Invalidation Optimization
+Machine Learning Docker DNS Routing Edge Computing Simplicity is the ultimate sophistication. Latency Optimization
