@@ -11,3 +11,4 @@ Multi-threading Data Pipeline Zero Downtime Deployment Sharding Neural Networks 
 JWT JavaScript Frontend Automation Dream big and dare to fail. A/B Testing
 API Act as if what you do makes a difference. It does. Automation Docker Message Queue
 Containerization Artificial Intelligence DevOps Distributed Systems Latency Optimization
+Data Pipeline The only way to do great work is to love what you do. Database Success is how high you bounce when you hit bottom. Cloud Functions Logging Monitoring Content Delivery Network Opportunities don't happen. You create them. Do what you love and the money will follow.
