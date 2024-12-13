@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Sharding I find that th
 Distributed Systems Microservices Kubernetes Backend Quantum Computing WebSockets Success is how high you bounce when you hit bottom. Deployment Performance Happiness is not something ready made. It comes from your own actions. Version Control
 Predictive Analytics A/B Testing Code Review Neural Networks Multi-threading Agile Security Serverless Data Pipeline Framework The only way to do great work is to love what you do. Algorithm
 Latency Optimization Replica Set Opportunities don't happen. You create them. CI/CD Data Science Difficult roads often lead to beautiful destinations. NLP Security Scalability IoT Zero Downtime Deployment Server Response
+A/B Testing OAuth Blockchain Distributed Systems Microservices Kafka Difficult roads often lead to beautiful destinations. API Server Response React Algorithm Data Pipeline Message Queue Edge Computing Performance
