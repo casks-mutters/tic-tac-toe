@@ -8,3 +8,4 @@ Don't be afraid to give up the good to go for the great. Load Balancing Containe
 Distributed Systems Serverless To be the best, you must be able to handle the worst. JWT Difficult roads often lead to beautiful destinations. WebSockets Database Parallel Processing The only way to do great work is to love what you do.
 Load Balancing Innovation distinguishes between a leader and a follower. DNS Routing Success is not in what you have, but who you are. Pull Request
 Don't be afraid to give up the good to go for the great. Replica Set WebSockets DevOps Database
+Data Science Firewalls Replica Set Agile Quantum Computing Edge Computing Microservices

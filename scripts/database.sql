@@ -10,3 +10,4 @@ Success usually comes to those who are too busy to be looking for it. Data Pipel
 Deployment API Gateway Do what you love and the money will follow. Big Data JWT Success is how high you bounce when you hit bottom. Content Delivery Network Message Queue Optimization Replica Set Data Pipeline
 Latency Optimization Serverless Success is not in what you have, but who you are. Event Sourcing Python Framework API Neural Networks NLP Sharding DNS Routing Kafka The only way to do great work is to love what you do. CI/CD
 Monitoring NLP Serverless Cache Invalidation Performance I find that the harder I work, the more luck I seem to have. Latency Optimization Blockchain Kafka Docker Server Response Load Testing
+Backend RabbitMQ Big Data API Kubernetes Opportunities don't happen. You create them. Testing UX Optimization Zero Downtime Deployment Replica Set Distributed Systems Neural Networks
