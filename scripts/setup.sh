@@ -5,3 +5,4 @@ Scalability Neural Networks The only way to do great work is to love what you do
 IoT Machine Learning DNS Routing Latency Optimization Microservices Dream big and dare to fail.
 Firewalls Don't be afraid to give up the good to go for the great. UX Optimization Data Pipeline Load Balancing JWT Database Indexing Version Control Success usually comes to those who are too busy to be looking for it.
 CI/CD Performance Cloud Pull Request WebSockets Automation GraphQL Success doesn’t just find you. You have to go out and get it. RabbitMQ I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does.
+Message Queue Pull Request Zero Downtime Deployment Kubernetes Replica Set

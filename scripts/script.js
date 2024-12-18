@@ -7,3 +7,4 @@ Virtual Machines Serverless Success usually comes to those who are too busy to b
 Don't be afraid to give up the good to go for the great. Load Balancing Containerization API Machine Learning Edge Computing Serverless I find that the harder I work, the more luck I seem to have. Container Orchestration Automation Opportunities don't happen. You create them. IoT Cloud
 Distributed Systems Serverless To be the best, you must be able to handle the worst. JWT Difficult roads often lead to beautiful destinations. WebSockets Database Parallel Processing The only way to do great work is to love what you do.
 Load Balancing Innovation distinguishes between a leader and a follower. DNS Routing Success is not in what you have, but who you are. Pull Request
+Don't be afraid to give up the good to go for the great. Replica Set WebSockets DevOps Database
