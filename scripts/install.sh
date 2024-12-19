@@ -4,3 +4,4 @@ DNS Routing Automation Dream big and dare to fail. OAuth Frontend Serverless The
 Data Pipeline Framework WebSockets Success doesn’t just find you. You have to go out and get it. Kafka Work hard in silence, let your success be your noise. NLP Neural Networks Zero Downtime Deployment Server Response Innovation distinguishes between a leader and a follower. CI/CD RabbitMQ Microservices Algorithm
 Firewalls Parallel Processing The only way to do great work is to love what you do. A/B Testing Pull Request Server Response Frontend
 Predictive Analytics Firewalls Data Science A/B Testing Load Balancing Sharding NLP
+Dream big and dare to fail. Replica Set Logging DNS Routing Lambda Functions Version Control Code Review Data Pipeline Success is not in what you have, but who you are. Optimization Latency Optimization Server Response Opportunities don't happen. You create them. Containerization Message Queue
