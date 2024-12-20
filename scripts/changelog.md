@@ -10,3 +10,4 @@ DevOps Security Edge Computing Replica Set Scalability Success doesn’t just find
 Multi-threading Data Pipeline Zero Downtime Deployment Sharding Neural Networks Don't be afraid to give up the good to go for the great. Serverless Do what you love and the money will follow. DNS Routing Algorithm Monitoring Data Science
 JWT JavaScript Frontend Automation Dream big and dare to fail. A/B Testing
 API Act as if what you do makes a difference. It does. Automation Docker Message Queue
+Containerization Artificial Intelligence DevOps Distributed Systems Latency Optimization
