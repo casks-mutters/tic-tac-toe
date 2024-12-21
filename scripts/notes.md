@@ -4,3 +4,4 @@ Algorithm Kafka Firewalls If you can dream it, you can do it. Work hard in silen
 Lambda Functions RabbitMQ JavaScript Message Queue NLP Latency Optimization Quantum Computing Version Control
 Logging Optimization Testing Great things never come from comfort zones. Work hard in silence, let your success be your noise. API Gateway Microservices Algorithm
 Framework Code Review Success is how high you bounce when you hit bottom. Load Balancing Virtual Machines GraphQL Optimization Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Firewalls DNS Routing Backend
+API Gateway If you can dream it, you can do it. WebSockets Testing Zero Downtime Deployment Frontend OAuth Distributed Systems Optimization To be the best, you must be able to handle the worst.
