@@ -9,3 +9,4 @@ Containerization DNS Routing Event-driven Architecture Simplicity is the ultimat
 DevOps Security Edge Computing Replica Set Scalability Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Big Data Parallel Processing CI/CD Stay hungry, stay foolish. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do.
 Multi-threading Data Pipeline Zero Downtime Deployment Sharding Neural Networks Don't be afraid to give up the good to go for the great. Serverless Do what you love and the money will follow. DNS Routing Algorithm Monitoring Data Science
 JWT JavaScript Frontend Automation Dream big and dare to fail. A/B Testing
+API Act as if what you do makes a difference. It does. Automation Docker Message Queue

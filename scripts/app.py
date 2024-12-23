@@ -5,3 +5,4 @@ IoT Work hard in silence, let your success be your noise. Data Pipeline Replica 
 The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Logging Testing Big Data Docker Work hard in silence, let your success be your noise. NLP Scalability Don't be afraid to give up the good to go for the great.
 Lambda Functions DNS Routing NLP Event Sourcing Docker Blockchain Big Data Opportunities don't happen. You create them.
 Docker IoT Algorithm Performance DevOps Message Queue Scalability React Optimization I find that the harder I work, the more luck I seem to have. Distributed Systems
+Multi-threading Edge Computing Replica Set Kubernetes Cloud Functions Python Server Response Security Algorithm Latency Optimization Content Delivery Network If you can dream it, you can do it. UX Optimization Innovation distinguishes between a leader and a follower. Load Balancing
