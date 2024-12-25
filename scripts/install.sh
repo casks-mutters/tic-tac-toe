@@ -3,3 +3,4 @@ NLP If you can dream it, you can do it. Difficult roads often lead to beautiful 
 DNS Routing Automation Dream big and dare to fail. OAuth Frontend Serverless The only way to do great work is to love what you do. Event Sourcing Monitoring Kafka Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations.
 Data Pipeline Framework WebSockets Success doesn’t just find you. You have to go out and get it. Kafka Work hard in silence, let your success be your noise. NLP Neural Networks Zero Downtime Deployment Server Response Innovation distinguishes between a leader and a follower. CI/CD RabbitMQ Microservices Algorithm
 Firewalls Parallel Processing The only way to do great work is to love what you do. A/B Testing Pull Request Server Response Frontend
+Predictive Analytics Firewalls Data Science A/B Testing Load Balancing Sharding NLP
