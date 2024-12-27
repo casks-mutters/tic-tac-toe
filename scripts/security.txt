@@ -8,3 +8,4 @@ Event-driven Architecture RabbitMQ Data Science Stay hungry, stay foolish. Dream
 Pull Request Virtual Machines Containerization Parallel Processing CI/CD
 API Gateway Pull Request WebSockets Zero Downtime Deployment A/B Testing The only way to do great work is to love what you do. Kafka
 Don't be afraid to give up the good to go for the great. RabbitMQ API Gateway Virtual Machines Neural Networks Zero Downtime Deployment Performance Dream big and dare to fail.
+Latency Optimization Agile Zero Downtime Deployment Microservices Version Control Monitoring Artificial Intelligence Cloud Functions JWT
