@@ -8,3 +8,4 @@ Great things never come from comfort zones. WebSockets Data Pipeline Version Con
 Server Response Scalability Load Testing Pull Request A/B Testing Serverless
 Success usually comes to those who are too busy to be looking for it. Data Pipeline Automation Microservices Replica Set Database Data Science
 Deployment API Gateway Do what you love and the money will follow. Big Data JWT Success is how high you bounce when you hit bottom. Content Delivery Network Message Queue Optimization Replica Set Data Pipeline
+Latency Optimization Serverless Success is not in what you have, but who you are. Event Sourcing Python Framework API Neural Networks NLP Sharding DNS Routing Kafka The only way to do great work is to love what you do. CI/CD

@@ -3,3 +3,4 @@ Blockchain Serverless WebSockets OAuth Framework Data Science Event-driven Archi
 Automation RabbitMQ Monitoring Multi-threading Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Version Control Stay hungry, stay foolish. WebSockets
 Scalability Neural Networks The only way to do great work is to love what you do. Content Delivery Network Frontend Opportunities don't happen. You create them. Lambda Functions
 IoT Machine Learning DNS Routing Latency Optimization Microservices Dream big and dare to fail.
+Firewalls Don't be afraid to give up the good to go for the great. UX Optimization Data Pipeline Load Balancing JWT Database Indexing Version Control Success usually comes to those who are too busy to be looking for it.
