@@ -5,3 +5,4 @@ Multi-threading Zero Downtime Deployment Data Pipeline Framework If you can drea
 Simplicity is the ultimate sophistication. Container Orchestration Artificial Intelligence Cloud Predictive Analytics A/B Testing Latency Optimization Load Balancing UX Optimization Difficult roads often lead to beautiful destinations. Distributed Systems Backend The only way to do great work is to love what you do. WebSockets Success usually comes to those who are too busy to be looking for it.
 Happiness is not something ready made. It comes from your own actions. Security Quantum Computing Code Review Kubernetes UX Optimization Agile Server Response
 GraphQL Load Balancing Don't be afraid to give up the good to go for the great. Containerization Database Indexing Predictive Analytics Parallel Processing Agile
+Pull Request Data Science Server Response API Gateway Firewalls Success usually comes to those who are too busy to be looking for it. Docker JWT Big Data

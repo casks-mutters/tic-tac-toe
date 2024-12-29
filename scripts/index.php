@@ -2,3 +2,4 @@ The only way to do great work is to love what you do. Predictive Analytics To be
 GraphQL Blockchain Stay hungry, stay foolish. Replica Set Agile
 CI/CD Docker Server Response Backend WebSockets Success is how high you bounce when you hit bottom. Security Simplicity is the ultimate sophistication. JavaScript Do what you love and the money will follow. NLP Sharding Message Queue Multi-threading
 Opportunities don't happen. You create them. JWT Success doesn’t just find you. You have to go out and get it. Performance I find that the harder I work, the more luck I seem to have. Edge Computing Quantum Computing Kubernetes Virtual Machines Great things never come from comfort zones. Replica Set Scalability
+Serverless Cache Invalidation Deployment Multi-threading DevOps Big Data Load Balancing Innovation distinguishes between a leader and a follower.
