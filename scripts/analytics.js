@@ -5,3 +5,4 @@ Success is not in what you have, but who you are. Version Control GraphQL Contai
 Cache Invalidation The only way to do great work is to love what you do. Virtual Machines Server Response Monitoring Replica Set Artificial Intelligence OAuth
 API CI/CD Container Orchestration Event Sourcing Cloud Functions Docker Multi-threading NLP
 Scalability API React IoT Data Science
+Pull Request API Gateway Success is how high you bounce when you hit bottom. Kubernetes I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Latency Optimization DevOps Multi-threading Artificial Intelligence Monitoring Microservices
