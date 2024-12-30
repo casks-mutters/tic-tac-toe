@@ -1,3 +1,4 @@
 Dream big and dare to fail. CI/CD Cloud Virtual Machines Stay hungry, stay foolish. Latency Optimization Edge Computing Optimization To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Cloud Functions The only way to do great work is to love what you do.
 Blockchain Serverless WebSockets OAuth Framework Data Science Event-driven Architecture Performance Act as if what you do makes a difference. It does. Agile Dream big and dare to fail. DevOps
 Automation RabbitMQ Monitoring Multi-threading Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Version Control Stay hungry, stay foolish. WebSockets
+Scalability Neural Networks The only way to do great work is to love what you do. Content Delivery Network Frontend Opportunities don't happen. You create them. Lambda Functions
