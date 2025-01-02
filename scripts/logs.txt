@@ -5,3 +5,4 @@ Latency Optimization Edge Computing To be the best, you must be able to handle t
 Testing If you can dream it, you can do it. Multi-threading Agile Pull Request Replica Set Distributed Systems Stay hungry, stay foolish. Cache Invalidation Success is not in what you have, but who you are. Parallel Processing React Security
 Scalability Latency Optimization Database React Multi-threading Containerization IoT Content Delivery Network Container Orchestration Neural Networks JavaScript Predictive Analytics
 Algorithm Framework JWT GraphQL Event-driven Architecture Containerization Do what you love and the money will follow. Neural Networks Firewalls
+IoT Serverless Virtual Machines Deployment RabbitMQ Happiness is not something ready made. It comes from your own actions. JWT Don't be afraid to give up the good to go for the great. Database Microservices Kafka Python Stay hungry, stay foolish. NLP
