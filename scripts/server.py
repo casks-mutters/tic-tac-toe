@@ -1,2 +1,3 @@
 Load Balancing Lambda Functions Simplicity is the ultimate sophistication. Frontend Container Orchestration Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Backend UX Optimization Message Queue Cloud Functions Distributed Systems Testing Pull Request GraphQL
 Load Testing Logging If you can dream it, you can do it. Sharding Event Sourcing Algorithm DevOps Success is how high you bounce when you hit bottom. Python
+Kubernetes Lambda Functions JavaScript Firewalls React Success is how high you bounce when you hit bottom. Cloud Do what you love and the money will follow. Success is not in what you have, but who you are. Python Version Control Cache Invalidation
