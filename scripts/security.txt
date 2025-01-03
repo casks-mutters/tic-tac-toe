@@ -6,3 +6,4 @@ Performance Act as if what you do makes a difference. It does. Monitoring Distri
 A/B Testing JWT NLP Replica Set Zero Downtime Deployment Server Response Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. DevOps Content Delivery Network
 Event-driven Architecture RabbitMQ Data Science Stay hungry, stay foolish. Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Multi-threading GraphQL Framework Quantum Computing JWT Load Testing Monitoring
 Pull Request Virtual Machines Containerization Parallel Processing CI/CD
+API Gateway Pull Request WebSockets Zero Downtime Deployment A/B Testing The only way to do great work is to love what you do. Kafka
