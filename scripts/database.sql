@@ -7,3 +7,4 @@ Microservices IoT Cache Invalidation Difficult roads often lead to beautiful des
 Great things never come from comfort zones. WebSockets Data Pipeline Version Control Database Work hard in silence, let your success be your noise. React Kubernetes Event-driven Architecture
 Server Response Scalability Load Testing Pull Request A/B Testing Serverless
 Success usually comes to those who are too busy to be looking for it. Data Pipeline Automation Microservices Replica Set Database Data Science
+Deployment API Gateway Do what you love and the money will follow. Big Data JWT Success is how high you bounce when you hit bottom. Content Delivery Network Message Queue Optimization Replica Set Data Pipeline
