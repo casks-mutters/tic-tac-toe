@@ -3,3 +3,4 @@ DevOps Blockchain Success usually comes to those who are too busy to be looking 
 Algorithm Kafka Firewalls If you can dream it, you can do it. Work hard in silence, let your success be your noise. Data Science Do what you love and the money will follow. JavaScript Success doesn’t just find you. You have to go out and get it. Cache Invalidation Replica Set Version Control
 Lambda Functions RabbitMQ JavaScript Message Queue NLP Latency Optimization Quantum Computing Version Control
 Logging Optimization Testing Great things never come from comfort zones. Work hard in silence, let your success be your noise. API Gateway Microservices Algorithm
+Framework Code Review Success is how high you bounce when you hit bottom. Load Balancing Virtual Machines GraphQL Optimization Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Firewalls DNS Routing Backend
