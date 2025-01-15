@@ -1,1 +1,2 @@
 Cloud Functions Performance Container Orchestration Testing Kafka Deployment Cache Invalidation Algorithm Database
+Event Sourcing Cloud Functions Great things never come from comfort zones. If you can dream it, you can do it. Distributed Systems Database Security Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Frontend Backend To be the best, you must be able to handle the worst.
