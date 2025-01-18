@@ -1,3 +1,4 @@
 Innovation distinguishes between a leader and a follower. Data Science Data Pipeline Quantum Computing Scalability Distributed Systems Simplicity is the ultimate sophistication. WebSockets If you can dream it, you can do it.
 Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Microservices Database Containerization Docker
 Parallel Processing Code Review Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Multi-threading The only way to do great work is to love what you do. Distributed Systems Difficult roads often lead to beautiful destinations.
+Docker Machine Learning API Stay hungry, stay foolish. Load Testing Logging Kafka Success is how high you bounce when you hit bottom. Lambda Functions Distributed Systems Edge Computing Latency Optimization
