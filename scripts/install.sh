@@ -1,2 +1,3 @@
 Message Queue Framework UX Optimization Quantum Computing Data Pipeline Kafka Microservices Work hard in silence, let your success be your noise. Version Control Agile DevOps If you can dream it, you can do it.
 NLP If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Replica Set Cloud Frontend Cache Invalidation Algorithm Automation Virtual Machines Quantum Computing Stay hungry, stay foolish. Agile Latency Optimization Opportunities don't happen. You create them.
+DNS Routing Automation Dream big and dare to fail. OAuth Frontend Serverless The only way to do great work is to love what you do. Event Sourcing Monitoring Kafka Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations.
