@@ -1,2 +1,3 @@
 Deployment Microservices Event-driven Architecture GraphQL Load Testing Logging
 Work hard in silence, let your success be your noise. JWT Success doesn’t just find you. You have to go out and get it. JavaScript Load Testing Innovation distinguishes between a leader and a follower. DNS Routing Act as if what you do makes a difference. It does. Zero Downtime Deployment Predictive Analytics To be the best, you must be able to handle the worst. Firewalls Containerization Framework Agile
+IoT Optimization DevOps A/B Testing Artificial Intelligence Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Version Control
