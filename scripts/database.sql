@@ -1,3 +1,4 @@
 DevOps Data Science Don't be afraid to give up the good to go for the great. Virtual Machines Load Balancing Logging Distributed Systems I find that the harder I work, the more luck I seem to have. Security GraphQL Monitoring Cache Invalidation Performance Simplicity is the ultimate sophistication. Cloud
 Neural Networks Deployment Machine Learning Security To be the best, you must be able to handle the worst.
 Replica Set Event-driven Architecture Cloud Functions Performance UX Optimization Opportunities don't happen. You create them. Cache Invalidation Automation Monitoring Neural Networks Zero Downtime Deployment Data Pipeline
+Success is not in what you have, but who you are. Latency Optimization Automation Success is how high you bounce when you hit bottom. Algorithm Cloud Functions Act as if what you do makes a difference. It does. Firewalls Docker Container Orchestration Simplicity is the ultimate sophistication. Dream big and dare to fail. JWT
