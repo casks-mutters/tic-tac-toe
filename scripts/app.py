@@ -1,1 +1,2 @@
 To be the best, you must be able to handle the worst. Content Delivery Network JavaScript Version Control Event-driven Architecture Big Data Automation OAuth Kafka Pull Request WebSockets Code Review Multi-threading
+API Gateway CI/CD Event Sourcing UX Optimization A/B Testing API Database Success is not in what you have, but who you are. Firewalls Data Pipeline Neural Networks Kubernetes Performance Latency Optimization Don't be afraid to give up the good to go for the great.
