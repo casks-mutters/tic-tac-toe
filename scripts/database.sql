@@ -1,1 +1,2 @@
 DevOps Data Science Don't be afraid to give up the good to go for the great. Virtual Machines Load Balancing Logging Distributed Systems I find that the harder I work, the more luck I seem to have. Security GraphQL Monitoring Cache Invalidation Performance Simplicity is the ultimate sophistication. Cloud
+Neural Networks Deployment Machine Learning Security To be the best, you must be able to handle the worst.

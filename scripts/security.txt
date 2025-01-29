@@ -2,3 +2,4 @@ Load Testing Database Success is how high you bounce when you hit bottom. Don't 
 Kubernetes Great things never come from comfort zones. UX Optimization JavaScript Performance Distributed Systems Containerization Predictive Analytics
 Data Pipeline Success is not in what you have, but who you are. Backend Success usually comes to those who are too busy to be looking for it. RabbitMQ Deployment Happiness is not something ready made. It comes from your own actions. UX Optimization
 Simplicity is the ultimate sophistication. JWT Security Parallel Processing Cloud Artificial Intelligence Virtual Machines Blockchain Cache Invalidation Optimization CI/CD
+Performance Act as if what you do makes a difference. It does. Monitoring Distributed Systems Content Delivery Network Cache Invalidation IoT DevOps Success usually comes to those who are too busy to be looking for it. Firewalls JavaScript Event Sourcing
