@@ -1,0 +1,1 @@
+Innovation distinguishes between a leader and a follower. Data Science Data Pipeline Quantum Computing Scalability Distributed Systems Simplicity is the ultimate sophistication. WebSockets If you can dream it, you can do it.
