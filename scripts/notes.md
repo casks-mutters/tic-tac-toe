@@ -1,1 +1,2 @@
 Database Deployment Lambda Functions Success usually comes to those who are too busy to be looking for it. Pull Request Automation Act as if what you do makes a difference. It does. Dream big and dare to fail. Database Indexing The only way to do great work is to love what you do. Optimization React Artificial Intelligence
+DevOps Blockchain Success usually comes to those who are too busy to be looking for it. Quantum Computing Serverless Cloud Functions Algorithm Microservices Big Data Replica Set Happiness is not something ready made. It comes from your own actions.
