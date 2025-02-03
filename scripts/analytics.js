@@ -1,1 +1,2 @@
 WebSockets DevOps Cache Invalidation JWT GraphQL Load Balancing A/B Testing Zero Downtime Deployment RabbitMQ Stay hungry, stay foolish. Sharding Do what you love and the money will follow.
+Stay hungry, stay foolish. Version Control I find that the harder I work, the more luck I seem to have. Microservices To be the best, you must be able to handle the worst. Load Testing IoT Quantum Computing Server Response Optimization API Gateway Edge Computing Replica Set Logging Zero Downtime Deployment
