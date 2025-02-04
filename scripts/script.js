@@ -1,1 +1,2 @@
 Code Review Load Testing Testing Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Stay hungry, stay foolish. Great things never come from comfort zones. Firewalls Replica Set Act as if what you do makes a difference. It does. Edge Computing Virtual Machines Multi-threading Deployment
+Microservices GraphQL Deployment Don't be afraid to give up the good to go for the great. Replica Set Python Neural Networks Cloud Simplicity is the ultimate sophistication. Data Pipeline Big Data DevOps RabbitMQ Database Indexing
