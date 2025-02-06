@@ -1,0 +1,1 @@
+Dream big and dare to fail. CI/CD Cloud Virtual Machines Stay hungry, stay foolish. Latency Optimization Edge Computing Optimization To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Cloud Functions The only way to do great work is to love what you do.
