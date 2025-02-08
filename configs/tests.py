@@ -1,1 +1,2 @@
 Don't be afraid to give up the good to go for the great. Parallel Processing If you can dream it, you can do it. Success is not in what you have, but who you are. Data Science Difficult roads often lead to beautiful destinations. Python Database Indexing
+Code Review Content Delivery Network DevOps Event Sourcing Opportunities don't happen. You create them. Agile Message Queue Serverless Innovation distinguishes between a leader and a follower. Big Data Testing Docker CI/CD
